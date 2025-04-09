@@ -48,15 +48,6 @@ article p {
     margin: 16px 24px 40px 24px;
 }
 
-.attribution { 
-    font-size: 11px; 
-    text-align: center;
-}
-
-.attribution a { 
-    color: hsl(228, 45%, 44%); 
-}
-
 .outfit-700 {
     font-family: "Outfit", sans-serif;
     font-optical-sizing: auto;
