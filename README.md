@@ -1,6 +1,11 @@
 # Frontend Mentor - QR code component
 
+### Preview
 ![Design preview for the QR code component coding challenge](./preview.jpg)
+
+### Solution (Safari)
+![Screenshot of the solution for the QR code component coding challenge](image-1.png)
+`Solution available` [here](https://beepbeepkaicodebop.github.io/qrcodecomponent/)!
 
 ## Welcome! 👋
 
